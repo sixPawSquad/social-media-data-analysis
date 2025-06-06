@@ -28,5 +28,5 @@ This project uses Python and data visualization to explore trends in social medi
 - Experiment with **different styles of food content** (recipes vs. cravings).
 
 ## 📂 Files
-- `SocialMediaDataAnalysis.ipynb` – Jupyter Notebook with full code and visualizations
+- `SocialMediaDataAnalysis_Polished.ipynb` – Jupyter Notebook with full code and visualizations
 - `README.md` – Project summary and key insights
